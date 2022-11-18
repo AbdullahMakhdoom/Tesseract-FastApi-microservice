@@ -1,1 +1,2 @@
-# Tesseract FastApi Microservice in Python
+# OCR Microservice using Tesseract, FastAPI and 
+
