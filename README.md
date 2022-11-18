@@ -1,1 +1,1 @@
-# Tesseract-FastApi-microservice
+# Tesseract FastApi Microservice in Python
